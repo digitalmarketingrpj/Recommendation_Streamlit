@@ -6,7 +6,7 @@ import matplotlib
 import matplotlib.pyplot as plt
 #matplotlib.use('TkAgg')
 #import matplotlib
-matplotlib.use('Agg')
+#matplotlib.use('Agg')
 
 
 st.title("Recommendation System")

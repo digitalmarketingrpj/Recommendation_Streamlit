@@ -9,9 +9,6 @@ backcall==0.2.0
 base58==2.0.1
 bleach==3.2.1
 blinker==1.4
-boto3==1.16.13
-botocore==1.19.13
-bson==0.5.10
 cachetools==4.1.1
 certifi==2020.6.20
 cffi==1.14.3
@@ -32,8 +29,6 @@ GitPython==3.1.11
 google-auth==1.23.0
 google-auth-oauthlib==0.4.2
 google-pasta==0.2.0
-grpcio==1.33.2
-h5py==2.10.0
 idna==2.10
 imageio==2.9.0
 importlib-metadata==2.0.0
@@ -42,8 +37,6 @@ ipython==7.16.1
 ipython-genutils==0.2.0
 ipywidgets==7.5.1
 itsdangerous==1.1.0
-jedi==0.17.2
-Jinja2==2.11.2
 jmespath==0.10.0
 joblib==0.17.0
 jsonschema==3.2.0
@@ -75,7 +68,6 @@ Pillow==8.0.1
 prometheus-client==0.8.0
 prompt-toolkit==3.0.8
 protobuf==3.13.0
-pyarrow==2.0.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser==2.20
@@ -97,8 +89,6 @@ sklearn==0.0
 smmap==3.0.4
 streamlit==0.70.0
 tdqm==0.0.1
-tensorboard==2.3.0
-tensorboard-plugin-wit==1.7.0
 termcolor==1.1.0
 terminado==0.9.1
 testpath==0.4.4
@@ -106,7 +96,6 @@ threadpoolctl==2.1.0
 toml==0.10.2
 toolz==0.11.1
 tornado==6.1
-tqdm==4.51.0
 traitlets==4.3.3
 tzlocal==2.1
 urllib3==1.25.11
